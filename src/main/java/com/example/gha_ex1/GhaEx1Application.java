@@ -10,4 +10,8 @@ public class GhaEx1Application {
 		SpringApplication.run(GhaEx1Application.class, args);
 	}
 
+	public int add(int n1, int n2) {
+		return n1 + n2;
+	}
+
 }
